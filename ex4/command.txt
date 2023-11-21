@@ -1,0 +1,1 @@
+# docker run -d matipl01/laborki
